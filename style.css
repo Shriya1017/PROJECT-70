@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+}
+img{
+ padding:1px;
+    border:thick solid black;
+    width: 700px;
+}
+.my_nav_bar{
+    top:0;
+    position: sticky;
+    z-index: 99999;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float:right;
+}
+.rate{
+    width:400;
+    height:400;
+}
+.img2{
+    padding:1px;
+    border: thick solid darkblue;
+    width:600px;
+}
+a{
+  cursor: pointer;  
+}
